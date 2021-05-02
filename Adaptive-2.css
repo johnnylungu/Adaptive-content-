@@ -88,7 +88,7 @@ margin-left: -892px;
 
 /*medium screen*/
 
-@media (max-width: 1470px) {
+@media (max-width: 1500px) {
     #content {
         width: 90%
     }
